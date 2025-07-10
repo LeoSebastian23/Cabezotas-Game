@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://db7bov8g4cngv"
-path="res://.godot/imported/player01.png-5f31f0033575a0692a2fa2a13b875e74.ctex"
+uid="uid://bs85qfdiwvvpp"
+path="res://.godot/imported/Portada Cabezotas Game.png-2344b10653b6ae39b133f0d2cf1dc248.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player01.png"
-dest_files=["res://.godot/imported/player01.png-5f31f0033575a0692a2fa2a13b875e74.ctex"]
+source_file="res://assets/Portada Cabezotas Game.png"
+dest_files=["res://.godot/imported/Portada Cabezotas Game.png-2344b10653b6ae39b133f0d2cf1dc248.ctex"]
 
 [params]
 

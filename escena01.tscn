@@ -10,5 +10,5 @@ position = Vector2(577, 535)
 scale = Vector2(10.1008, 5.00678)
 
 [node name="Node2D" parent="StaticBody2D" instance=ExtResource("2_oqbf3")]
-position = Vector2(-31.1856, -19.3737)
-scale = Vector2(0.229479, 0.276783)
+position = Vector2(-33.1657, -10.7854)
+scale = Vector2(0.124, 0.15)
